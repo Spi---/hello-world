@@ -1,4 +1,6 @@
 hello-world
 ===========
 
-I said hello!
+I said good day to you, sir!
+Good day.
+Seriously.
